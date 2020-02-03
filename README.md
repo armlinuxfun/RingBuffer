@@ -1,4 +1,4 @@
-# RingBuffer
+﻿# RingBuffer
 
 模仿kfifo实现的环形缓冲区。程序中涉及到环形缓冲区的概念，详细介绍见维基百科[Circular buffer](https://en.wikipedia.org/wiki/Circular_buffer)。
 
@@ -22,4 +22,4 @@
 
 ## 运行效果
 
-![](https://github.com/XinLiGitHub/RingBuffer/raw/master/RingBuffer/RingBuffer/RunningResult.jpg)
+![](https://github.com/XinLiGitHub/RingBuffer/raw/master/RingBuffer/RingBuffer/RunningResult.
